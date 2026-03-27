@@ -78,6 +78,7 @@ POST /locations/:id/action
 
 ответ:
 
+
 {
   "action_id": "act_1",
   "resolution": {

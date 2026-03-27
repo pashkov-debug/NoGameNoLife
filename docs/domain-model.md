@@ -97,6 +97,7 @@ stats_json
 abilities_json
 loot_table_json
 
+
 ItemTemplate
 
 id

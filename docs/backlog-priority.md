@@ -14,6 +14,7 @@ combat
 AI gateway
 locks/idempotency
 
+
 P1 — после запуска
 квесты
 NPC-диалоги
