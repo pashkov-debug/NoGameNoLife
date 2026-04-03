@@ -79,3 +79,7 @@ Thumbs.db
 
 # misc
 *.local
+
+tools/python/.venv/
+__pycache__/
+*.pyc

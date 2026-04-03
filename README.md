@@ -16,12 +16,19 @@ MVP браузерной AI-assisted RPG с общим миром.
 - Правила мира, бой, лут, эффекты и инвентарь считает сервер
 
 ## Ближайшие шаги
-1. Нормализовать monorepo
-2. Поднять `apps/web`
-3. Поднять `apps/api`
-4. Подключить `packages/contracts`
-5. Добавить Prisma/PostgreSQL/Redis
-6. Реализовать first playable slice
+/game
+  /apps
+    /web
+    /api
+  /packages
+    /contracts
+  /docs
+  /db
+  /.github/workflows
+  /.env.example
+  /package.json
+  /pnpm-workspace.yaml
+  /tsconfig.base.json
 
 ## Статус
 Сейчас репозиторий находится на стадии каркаса и документации.
